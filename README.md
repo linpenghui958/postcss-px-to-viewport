@@ -1,7 +1,7 @@
 #### 改造postcss-px-to-viewport
 
 ##### 增加exclude配置项
-配置文件.postcssrc.js
+配置文件.postcssrc.js（修改第三方库被影响的情况）
 ```
 "postcss-px-to-viewport": {
       viewportWidth: 750,
