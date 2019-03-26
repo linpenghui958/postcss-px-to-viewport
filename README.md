@@ -1,5 +1,5 @@
 #### 改造postcss-px-to-viewport
-
+[使用说明](https://github.com/linpenghui958/note/blob/master/Vue%2Bts%E4%B8%8B%E7%9A%84vw%E9%80%82%E9%85%8D%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93css%E9%97%AE%E9%A2%98%EF%BC%89.md)
 ##### 增加exclude配置项
 配置文件.postcssrc.js（修改第三方库被影响的情况）
 ```
